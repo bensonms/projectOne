@@ -1,6 +1,7 @@
 # Project One
 
 A Python project for [describe purpose here].
+A Python project for [describe purpose here].
 
 ## Getting Started
 
